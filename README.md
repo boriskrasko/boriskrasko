@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <img src="https://boriskrasko.github.io/boriskrasko/logo/css.png" width="40" /> <img src="https://boriskrasko.github.io/boriskrasko/logo/sass.png" width="40" />
 <img src="https://boriskrasko.github.io/boriskrasko/logo/js.png" width="40" />
-<img src="https://boriskrasko.github.io/boriskrasko/logo/ts.png" width="40" />
+<a href="https://github.com/boriskrasko/covid-19-dashboard"><img src="https://boriskrasko.github.io/boriskrasko/logo/ts.png" width="40" /></a>
 <img src="https://boriskrasko.github.io/boriskrasko/logo/react.png" width="40" />
 <img src="https://boriskrasko.github.io/boriskrasko/logo/webpack.png" width="40" />
