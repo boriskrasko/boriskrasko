@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://boriskrasko.github.io/boriskrasko/logo/css.png" width="48" /> <img src="https://boriskrasko.github.io/boriskrasko/logo/sass.png" width="48" />
-<img src="https://boriskrasko.github.io/boriskrasko/logo/js.png" width="48" />
-<img src="https://boriskrasko.github.io/boriskrasko/logo/ts.png" width="48" />
-<img src="https://boriskrasko.github.io/boriskrasko/logo/react.png" width="48" />
-<img src="https://boriskrasko.github.io/boriskrasko/logo/webpack.png" width="48" />
+<img src="https://boriskrasko.github.io/boriskrasko/logo/css.png" width="40" /> <img src="https://boriskrasko.github.io/boriskrasko/logo/sass.png" width="40" />
+<img src="https://boriskrasko.github.io/boriskrasko/logo/js.png" width="40" />
+<img src="https://boriskrasko.github.io/boriskrasko/logo/ts.png" width="40" />
+<img src="https://boriskrasko.github.io/boriskrasko/logo/react.png" width="40" />
+<img src="https://boriskrasko.github.io/boriskrasko/logo/webpack.png" width="40" />
