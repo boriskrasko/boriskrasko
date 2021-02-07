@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **boriskrasko/boriskrasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://boriskrasko.github.io/boriskrasko/logo-min/css.png) 
+![](https://boriskrasko.github.io/boriskrasko/logo-min/sass.png) 
+![](https://boriskrasko.github.io/boriskrasko/logo-min/js.png) 
+![](https://boriskrasko.github.io/boriskrasko/logo-min/ts.png) 
+![](https://boriskrasko.github.io/boriskrasko/logo-min/react.png) 
+![](https://boriskrasko.github.io/boriskrasko/logo-min/webpack.png) 
