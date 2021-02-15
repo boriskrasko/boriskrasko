@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img src="https://boriskrasko.github.io/boriskrasko/logo-min/css.png" width="24" /> <img src="https://boriskrasko.github.io/boriskrasko/logo-min/sass.png" width="24" />
 <img src="https://boriskrasko.github.io/boriskrasko/logo-min/js.png" width="24" />
 <a href="https://github.com/boriskrasko/covid-19-dashboard"><img src="https://boriskrasko.github.io/boriskrasko/logo-min/ts.png" width="24" /></a>
 <img src="https://boriskrasko.github.io/boriskrasko/logo-min/react.png" width="24" />
 <img src="https://boriskrasko.github.io/boriskrasko/logo-min/webpack.png" width="24" />
+-->
