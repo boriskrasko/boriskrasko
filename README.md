@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <img src="https://boriskrasko.github.io/boriskrasko/logo-min/react.png" width="24" />
 <img src="https://boriskrasko.github.io/boriskrasko/logo-min/webpack.png" width="24" />
 -->
+
+![Boris Krasko's GitHub stats](https://github-readme-stats.vercel.app/api?username=boriskrasko&show_icons=true&theme=graywhite&hide_title=true&count_private=true)
